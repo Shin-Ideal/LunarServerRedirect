@@ -10,6 +10,7 @@ Spigot、Paper、Bungeecord、Velocityに対応しています<br>
 * [Apollo](https://github.com/LunarClient/Apollo/releases)
 
 ## How to Use?
+0. Apolloという依存関係にあるプラグインを事前にpluginフォルダに入れておいてください。
 1. `/lunarserverredirect ユーザー名 アドレス` を実行
 2. LunarClientユーザーは、入力したサーバーに移動できます！
 
