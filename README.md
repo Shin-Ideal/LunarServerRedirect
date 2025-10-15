@@ -2,6 +2,7 @@
 
 LunarClientを使用しているプレイヤーをコマンドで他サーバに送信できるPlugin<br>
 Spigot、Paper、Bungeecord、Velocityに対応しています<br>
+[English Description & Spigot Page is here！](https://www.spigotmc.org/resources/lunarserverredirect.129524/)<br>
 
 ## How to Use?
 1. `/lunarserverredirect ユーザー名 アドレス` を実行
