@@ -1,0 +1,16 @@
+name: LunarServerRedirect
+version: '${project.version}'
+main: com.github.shin_ideal.lunarserverredirect.spigot.LunarServerRedirectSpigot
+api-version: '1.13'
+depend: [ Apollo-Bukkit ]
+
+permissions:
+  lunarserverredirect.command.lunarserverredirect:
+    description: Redirect Server With Lunar Client
+    default: op
+
+commands:
+  lunarserverredirect:
+    description: Redirect Server With Lunar Client
+    aliases: [ lserverredirect ]
+    permissions: lunarserverredirect.command.lunarserverredirect

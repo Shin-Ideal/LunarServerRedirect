@@ -1,0 +1,4 @@
+name: LunarServerRedirect
+version: '${project.version}'
+main: com.github.shin_ideal.lunarserverredirect.bungee.LunarServerRedirectBungee
+depend: [ Apollo-Bungee ]
