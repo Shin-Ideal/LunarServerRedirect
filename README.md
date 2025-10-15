@@ -1,5 +1,7 @@
 # LunarServerRedirect
 
+![image.png](image.png)
+
 LunarClientを使用しているプレイヤーをコマンドで他サーバに送信できるPlugin<br>
 Spigot、Paper、Bungeecord、Velocityに対応しています<br>
 [English Description & Spigot Page is here！](https://www.spigotmc.org/resources/lunarserverredirect.129524/)<br>
