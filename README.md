@@ -6,6 +6,9 @@ LunarClientを使用しているプレイヤーをコマンドで他サーバに
 Spigot、Paper、Bungeecord、Velocityに対応しています<br>
 [English Description & Spigot Page is here！](https://www.spigotmc.org/resources/lunarserverredirect.129524/)<br>
 
+## Dependency
+* [Apollo](https://github.com/LunarClient/Apollo/releases)
+
 ## How to Use?
 1. `/lunarserverredirect ユーザー名 アドレス` を実行
 2. LunarClientユーザーは、入力したサーバーに移動できます！
